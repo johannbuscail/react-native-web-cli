@@ -124,3 +124,9 @@ $ open ./android/app/build/outputs/apk
 - [React Native](http://facebook.github.io/react-native/)
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Create React Native App](https://github.com/react-community/create-react-native-app)
+
+## Todo
+
+- Add `npx` commands
+- Add `typescript` template
+- Add `yarn` support
